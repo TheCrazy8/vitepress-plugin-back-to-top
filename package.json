@@ -1,6 +1,6 @@
 {
-  "name": "vitepress-plugin-back-to-top",
-  "version": "1.0.1",
+  "name": "vitepress-plugin-back-to-top-tc8",
+  "version": "1.0.2",
   "type": "module",
   "files": ["dist"],
   "main": "./dist/vitepress-plugin-back-to-top.umd.cjs",
